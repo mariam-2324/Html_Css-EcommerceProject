@@ -62,7 +62,7 @@ It helps users move easily between pages such as:
 
 ---
 
-![PEHNAAWA Navigation Bar](./navBar.png)
+![PEHNAAWA Navigation Bar](MultiNavBars.png)
 
 ## 🔥 Features Used
 
@@ -153,6 +153,8 @@ The Hero Section is the **first visual impression** of the website.
 
 ---
 
+![Hero section](hero-2.png)
+
 ## ✨ Features
 
 ### 🖼️ Full Width Banner
@@ -183,6 +185,7 @@ This section highlights the **best premium products**.
 <div class="featured-grid">
 ```
 
+![Featured Products](FeaturedSection.png)
 
 ![alt text](./featuredProducts.png)
 ---
@@ -195,6 +198,8 @@ grid-template-columns: repeat(3, 1fr);
 ```
 
 ---
+
+![Grid-Section-Images](GridSection.png)
 
 ## 💡 Functionality
 
@@ -243,6 +248,8 @@ Each product card contains:
 transform: scale(1.03);
 filter: grayscale(1);
 ```
+
+![InfiniteLogosSlider](InfiniteLogoSlider.png)
 
 ### 🎯 Effect
 
@@ -435,7 +442,7 @@ The footer provides:
 
 ---
 
-![alt text](footer.png)
+![Footer Section](footerSection.png)
 
 # 🏷️ Footer Branding
 
