@@ -61,8 +61,8 @@ It helps users move easily between pages such as:
 
 ---
 
-![NavigationBar](MultiNavBars.png)
-![Hero section](hero-2.png)
+![NavigationBar](MultiNavbars.png)
+
 
 ## 🔥 Features Used
 
@@ -187,7 +187,6 @@ This section highlights the **best premium products**.
 
 ![Featured Products](FeaturedSection.png)
 
-![alt text](./featuredProducts.png)
 ---
 
 # 🧩 CSS Grid System
@@ -240,8 +239,6 @@ Each product card contains:
 
 ---
 
-![alt text](./allproductsGrid.png)
-
 ## ✨ Product Hover Animation
 
 ```css
@@ -288,9 +285,6 @@ Displays newly added wristwatches.
 ```html
 <div class="latestProducts">
 ```
-
-![alt text](./latestproducts.png)
-
 ---
 
 ## ✨ Design Features
