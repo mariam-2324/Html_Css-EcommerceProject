@@ -9,7 +9,6 @@
 # 🖼️ Hero Section Introduction Place
 
 ```md
-![Hero Banner](./hero-2.png)
 
 # ⌚ Welcome to PEHNAAWA
 Discover timeless luxury watches crafted for modern elegance and unforgettable moments.
@@ -62,7 +61,8 @@ It helps users move easily between pages such as:
 
 ---
 
-![PEHNAAWA Navigation Bar](MultiNavBars.png)
+![NavigationBar](MultiNavBars.png)
+![Hero section](hero-2.png)
 
 ## 🔥 Features Used
 
