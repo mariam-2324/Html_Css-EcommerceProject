@@ -19,8 +19,7 @@ Discover timeless luxury watches crafted for modern elegance and unforgettable m
 
 # 🎥 YouTube Video Showcase Place
 
-![Watch the Full Website Showcase on YouTube](https://youtu.be/I0fBVtzfOuE?si=F7hXui_f2kT-CKLi)
-
+![YouTube](https://youtu.be/I0fBVtzfOuE?si=Trvt0tZRDK3oGTI9)
 
 
 # 🧠 Project Overview
