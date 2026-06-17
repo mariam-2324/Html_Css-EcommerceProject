@@ -9,7 +9,6 @@
 # 🖼️ Hero Section Introduction Place
 
 ```md
-![Hero Banner](./hero-2.png)
 
 # ⌚ Welcome to PEHNAAWA
 Discover timeless luxury watches crafted for modern elegance and unforgettable moments.
@@ -20,13 +19,8 @@ Discover timeless luxury watches crafted for modern elegance and unforgettable m
 
 # 🎥 YouTube Video Showcase Place
 
-```md
-## 🎬 Website Preview Video
+![YouTube](https://youtu.be/I0fBVtzfOuE?si=Trvt0tZRDK3oGTI9)
 
-[Watch the Full Website Showcase on YouTube](https://youtu.be/I0fBVtzfOuE)
-```
-
----
 
 # 🧠 Project Overview
 
@@ -62,7 +56,8 @@ It helps users move easily between pages such as:
 
 ---
 
-![PEHNAAWA Navigation Bar](./navBar.png)
+![NavigationBar](MultiNavbars.png)
+
 
 ## 🔥 Features Used
 
@@ -153,6 +148,8 @@ The Hero Section is the **first visual impression** of the website.
 
 ---
 
+![Hero section](hero-2.png)
+
 ## ✨ Features
 
 ### 🖼️ Full Width Banner
@@ -183,8 +180,8 @@ This section highlights the **best premium products**.
 <div class="featured-grid">
 ```
 
+![Featured Products](FeaturedSection.png)
 
-![alt text](./featuredProducts.png)
 ---
 
 # 🧩 CSS Grid System
@@ -195,6 +192,8 @@ grid-template-columns: repeat(3, 1fr);
 ```
 
 ---
+
+![Grid-Section-Images](GridSection.png)
 
 ## 💡 Functionality
 
@@ -235,14 +234,14 @@ Each product card contains:
 
 ---
 
-![alt text](./allproductsGrid.png)
-
 ## ✨ Product Hover Animation
 
 ```css
 transform: scale(1.03);
 filter: grayscale(1);
 ```
+
+![InfiniteLogosSlider](InfiniteLogoSlider.png)
 
 ### 🎯 Effect
 
@@ -281,9 +280,6 @@ Displays newly added wristwatches.
 ```html
 <div class="latestProducts">
 ```
-
-![alt text](./latestproducts.png)
-
 ---
 
 ## ✨ Design Features
@@ -435,7 +431,7 @@ The footer provides:
 
 ---
 
-![alt text](footer.png)
+![Footer Section](footerSection.png)
 
 # 🏷️ Footer Branding
 
